@@ -1,2 +1,2 @@
 # contextexpression
-Correlation data and plotting code for the Nature study "Sixteen facial expressions occur in similar contexts recorded worldwide". Note that small amounts of noise have been added to the correlation data to ensure differential privacy.
+Correlation data and plotting code for the Nature study "Sixteen facial expressions occur in similar contexts recorded worldwide". Note that small amounts of noise have been added to the correlation data to ensure differential privacy. Please also note that for purposes of guaranteeing differential privacy, the correlations provided here are semi-partial correlations rather than partial correlations. These have are nevertheless very similar to those shown in the paper.
